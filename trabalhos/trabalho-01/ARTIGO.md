@@ -25,4 +25,5 @@ Ruby está posicionado entre no top 10 da maioria dos índices que medem o cresc
 
 # Bibliografia
 https://pt.wikipedia.org/wiki/Ruby_(linguagem_de_programa%C3%A7%C3%A3o)
+
 https://www.ruby-lang.org/pt/about/
