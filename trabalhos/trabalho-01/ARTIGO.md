@@ -22,3 +22,7 @@ O grande atrativo do Ruby, é a grande velocidade de desenvolvimento. Normalment
 Portanto, Ruby, por ser uma linguagem dinâmicamente tipada, lhe dá flexibilidades para desenvolver qualquer tipo de software, não somente web. No geral, você escreve bem menos para alcançar o mesmo resultado, sem perder a legilibilidade no código, graças a sua sintaxe agradável e enxuta.
 É mais fácil para programadores que utilizam linguagens oriantada a objeto.
 Ruby está posicionado entre no top 10 da maioria dos índices que medem o crescimento da popularidade de linguagens de programação pelo mundo todo. Muito deste crescimento é atribuído à popularidade de softwares escritos em Ruby, em particular o framework de desenvolvimento web Ruby on Rails.
+
+# Bibliografia
+https://pt.wikipedia.org/wiki/Ruby_(linguagem_de_programa%C3%A7%C3%A3o)
+https://www.ruby-lang.org/pt/about/
